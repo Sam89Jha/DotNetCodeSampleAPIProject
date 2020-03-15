@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CampaignsProductManager.API/v16
+/CampaignsProductManager.API/bin/Debug/netcoreapp2.2
+/CampaignsProductManager.API/obj
+/src/CampaignsProductManager.Controllers/bin/Debug/netcoreapp2.2
+/src/CampaignsProductManager.Controllers/obj
+/src/CampaignsProductManager.Core/bin/Debug/netcoreapp2.2
+/src/CampaignsProductManager.Core/obj
+/src/CampaignsProductManager.Logics/bin/Debug/netcoreapp2.2
+/src/CampaignsProductManager.Logics/obj
+/src/CampaignsProductManager.Repository/bin/Debug/netcoreapp2.2
+/src/CampaignsProductManager.Repository/obj
+/tests/CampaignsProductManager.Tests/bin/Debug/netcoreapp2.2
+/tests/CampaignsProductManager.Tests/obj
